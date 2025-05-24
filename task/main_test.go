@@ -1,7 +1,7 @@
 package main
 
 import (
-	"concurrency/good"
+	wallet "concurrency/task/good"
 	"sync"
 	"testing"
 )
